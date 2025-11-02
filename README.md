@@ -4,7 +4,7 @@
 # Инструкция:
 1. Клонировать репозиторий: `git clone https://github.com/kyzro/tz1_fuselage`
 2. Установить зависимости: `pip install -r requirements.txt`
-3. Запустить проект: `python main.py'
+3. Запустить проект: `python main.py`
 
 # Структура проекта:
 **main.py** - Точка запуска программы.
